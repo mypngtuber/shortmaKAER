@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.spec
+output/*
+!output/.gitkeep
+*.partial.mp4
+.env
